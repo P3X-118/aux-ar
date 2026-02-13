@@ -1,9 +1,9 @@
 ---
 galaxy_info:
-  author: mash
-  company: mash
+  author: oneill
+  company: SGC
   role_name: aux
-  namespace: mash
+  namespace: P3X-118
   description: Auxiliary file and directory management
   platforms:
     - name: Debian
